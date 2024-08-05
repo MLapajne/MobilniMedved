@@ -1,0 +1,58 @@
+export default [
+  {
+    lat: 45.64602147859084,
+    lng: 14.856941585041312,
+    name: "Kočevje ŽP, AP",
+    people: 1,
+    fixed: true,
+  },
+  {
+    lat: 45.63706500215243,
+    lng: 14.860894528370137,
+    name: "Kočevje, AP",
+    people: 1,
+    fixed: true,
+  },
+  {
+    lat: 45.65137861595643,
+    lng: 14.853198390977669,
+    name: "Kočevje Petrol, AP",
+    people: 1,
+    fixed: true,
+  },
+  {
+    lat: 45.64701772063097,
+    lng: 14.880418983336396,
+    name: "Šalka vas, AP",
+    people: 1,
+    fixed: true,
+  },
+  {
+    lat: 45.64312104901378,
+    lng: 14.855084088232626,
+    name: "KOLU, izposoja koles",
+    people: 1,
+    fixed: false,
+  },
+  {
+    lat: 45.64416776879701,
+    lng: 14.85336623485755,
+    name: "GENERALI zavarovalnica",
+    people: 1,
+    fixed: false,
+  },
+  {
+    lat: 45.640433657143916,
+    lng: 14.859749330039485,
+    name: "MIT STORITVE",
+    people: 1,
+    fixed: false,
+  },
+  {
+    lat: 45.647019091013,
+    lng: 14.860005246669576,
+    name: "Good4dogs",
+    people: 1,
+    fixed: false,
+  },
+];
